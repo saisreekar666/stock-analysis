@@ -1,9 +1,9 @@
 # stock-analysis
-Stock Price Analysis using Python
+## Stock Price Analysis using Python
  
 This project uses historical stock market data to analyze and visualize trends over time. It leverages Python's data analysis libraries to help understand stock performance, identify patterns, and potentially aid investment decisions.
 
-🔍 Features
+## 🔍 Features
 
 Load and explore stock price data
 
@@ -19,7 +19,7 @@ Rolling statistics
 
 Detect market volatility
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 
 Python 3
 
